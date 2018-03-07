@@ -1,5 +1,5 @@
 Implementation of several state of the art segmentation method for binary tasks in PyTorch
-
+ 
 Here are the implemented models:
 - [x] [FCN8]
 - [x] [FCN16]
